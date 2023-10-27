@@ -142,6 +142,12 @@ jobs:
           - label: gz
             tag: garden
             target: nvidia-dev
+          - label: gz
+            tag: harmonic
+            target: base
+          - label: gz
+            tag: harmonic
+            target: dev
     steps:
       - name: Set current date
         id: date

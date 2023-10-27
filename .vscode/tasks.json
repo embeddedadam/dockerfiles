@@ -96,6 +96,7 @@
         "fortress",
         "citadel",
         "garden",
+        "harmonic",
         "all"
       ],
       "default": "foxy"
